@@ -67,3 +67,10 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+# Claude Code
+.claude/
+
+# Local input/working files
+_input/
+prompt.txt

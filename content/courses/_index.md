@@ -9,6 +9,12 @@ cascade:
     type: docs
     params:
       show_breadcrumb: true
+  - target:
+      path: '{/courses/**}'
+    params:
+      show_date: false
+      reading_time: false
+      show_date_updated: false
 
 sections:
   - block: collection
@@ -16,9 +22,8 @@ sections:
     content:
       title: Courses
       filters:
-        tag: Course
-        kinds:
-          - section
+        folders:
+          - courses
     design:
       view: article-grid
       show_read_time: false

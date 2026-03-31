@@ -9,4 +9,7 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+cascade:
+  reading_time: false
 ---

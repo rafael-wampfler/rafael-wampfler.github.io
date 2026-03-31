@@ -1,116 +1,131 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
+
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: Dr. Rafael Wampfler
+  given: Rafael
+  family: Wampfler
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+
 postnominals:
-  - PhD
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  - Dr. sc.
+
+role: Senior Researcher & Lecturer
+
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I am a Senior Researcher & Lecturer at the Computer Graphics Laboratory of ETH Zurich, and a Research Consultant at Disney Research. I am leading the Digital Character AI projects at CGL. My research interests include conversational digital characters, affective computing, human-computer interaction, and applied machine learning.
+
+  My vision is to create intelligent digital humans that can naturally communicate, understand, and support people across domains such as education and mental health. My research focuses on multimodal artificial intelligence for interactive digital humans, developing models that combine large language models, affective computing, and data-driven animation to create embodied conversational agents endowed with autonomous agency, consistent values, and beliefs.
+
+  My work bridges machine learning, human–computer interaction, and computer graphics to enable AI systems such as [Digital Einstein](https://ethz.ch/en/the-eth-zurich/global/digital-einstein.html) and interactive patient avatars for psychotherapy training and health education.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Computer Graphics Laboratory, ETH Zurich
+    url: https://cgl.ethz.ch/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:wrafael@inf.ethz.ch
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/rafael-wampfler/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=wampfler
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-0158-1305
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Embodied Conversational Agents
+  - Multimodal AI and Affective Computing
+  - Human–AI Interaction
+  - Data-Driven Animation Synthesis
+  - LLMs & Generative AI for Dialogue
+  - AI for Mental Health
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Dr. sc. (PhD) in Computer Science
+    institution: ETH Zurich
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Thesis: Multimodal Affective State Prediction in Mobile Settings.
+      Supervised by Prof. Dr. Markus Gross.
+  - degree: Master's Degree in Computer Science
+    institution: ETH Zurich
+    summary: |
+      Thesis: Engagement Detector: Modelling Engagement Dynamics in Virtual Environments.
+      Supervisors: Severin Klingler, Dr. Tanja Käser, Dr. Barbara Solenthaler, Prof. Dr. Markus Gross.
+  - degree: Bachelor's Degree in Computer Science
+    institution: ETH Zurich
+    summary: |
+      Thesis: Diff library in Eiffel (Diffeif).
+      Supervisors: Yu Pei, Prof. Dr. Bertrand Meyer.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research Consultant
+    org: Disney Research, The Walt Disney Company
+    start: 2026-02-01
+  - role: Lecturer
+    org: ETH Zurich
+    start: 2023-10-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Course creator and lecturer for:
+      - Artificial Intelligence for Digital Characters (Spring, 2024–present)
+      - Seminar on Digital Humans (Fall, 2022–present)
+  - role: Senior Researcher
+    org: Computer Graphics Laboratory, ETH Zurich
+    start: 2023-10-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Leading the Digital Character AI research team. Developing models that combine large language models, affective computing, and data-driven animation to create embodied conversational agents with autonomous agency, consistent values, and beliefs.
+  - role: Postdoctoral Researcher
+    org: Computer Graphics Laboratory, ETH Zurich
+    start: 2021-09-01
+    end: 2023-10-01
+  - role: Researcher / PhD Student
+    org: Computer Graphics Laboratory, ETH Zurich
+    start: 2017-01-01
+    end: 2021-09-01
 
 skills:
-  - name: Technical Skills
+  - name: Research Areas
+    items:
+      - label: Multimodal Deep Learning
+        level: 5
+      - label: Conversational AI
+        level: 5
+      - label: Generative Animation
+        level: 5
+  - name: Tools & Technologies
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: PyTorch
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
+      - label: Unity
         level: 4
 
 languages:
-  - name: English
+  - name: German
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
+  - name: English
+    level: 5
     label: Fluent
+  - name: French
+    level: 3
+    label: Intermediate
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Best Paper Honorable Mention
+    awarder: 18th ACM SIGGRAPH Conference on Motion, Interaction, and Games (MIG), Zurich
+    date: "2025-12-05"
+    summary: |
+      For the paper *PhonemeNet: A Transformer Pipeline for Text-Driven Facial Animation*.
+    icon: hero/trophy
+  - title: Best Paper Honorable Mention
+    awarder: 25th International Conference on Intelligent Virtual Agents (IVA), Berlin
+    date: "2025-09-19"
+    summary: |
+      For the paper *BEE: Belief-Value-Aligned, Explainable, and Extensible Cognitive Framework for Conversational Agents*.
     icon: hero/trophy

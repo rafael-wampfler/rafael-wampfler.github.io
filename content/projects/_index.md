@@ -3,6 +3,11 @@ title: 'Projects'
 date: 2024-05-19
 type: landing
 
+cascade:
+  show_date: false
+  reading_time: false
+  show_date_updated: false
+
 design:
   # Section spacing
   spacing: '5rem'
@@ -12,7 +17,10 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: 
+      count: 10
+      sort_by: weight
+      sort_ascending: true
       filters:
         folders:
           - projects
