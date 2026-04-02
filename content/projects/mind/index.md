@@ -70,4 +70,5 @@ MIND represents a convergence of several research threads — geospatial AI, con
 ## Research Partners and Funding
 
 - **National Research Foundation Singapore (NRF) CREATE** — Future Health Technologies 2 (FHT2)
+- **Bond University (Australia)**
 - Collaboration with life sciences and medicine partners in Singapore

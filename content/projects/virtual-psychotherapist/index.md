@@ -16,7 +16,7 @@ summary: >
 
 Access to evidence-based psychotherapy remains severely limited worldwide — constrained by long waitlists, resource scarcity, and geographic disparities. The Virtual Psychotherapist project develops embodied conversational AI agents that complement clinical care by extending access, supporting therapeutic practice, and enabling scalable training.
 
-This initiative is conducted in close collaboration with **Prof. Andrew Gloster** (University of Lucerne), whose team provides clinical expertise and direct access to real therapy data.
+This initiative is conducted in close collaboration with the **University of Lucerne**, providing clinical expertise and direct access to real therapy data.
 
 ## Motivation
 
@@ -70,4 +70,4 @@ Safety is a primary design constraint. The system includes:
 
 ## Research Partners
 
-- **Prof. Andrew Gloster**, Department of Behavioural Sciences and Psychology, University of Lucerne
+- **University of Lucerne**
