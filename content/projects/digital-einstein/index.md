@@ -67,6 +67,7 @@ The project has generated sustained international media coverage and public inte
 - [Official ETH Digital Einstein page](https://ethz.ch/en/the-eth-zurich/global/digital-einstein.html)
 - [Digital Einstein's Year of Adventures and Reinvention](https://ethambassadors.ethz.ch/2025/11/27/digital-einsteins-year-of-adventures-and-reinvention/)
 - [Digital Einstein's Journey to Dubai and Tokyo](https://ethambassadors.ethz.ch/2025/01/09/digital-einsteins-journey-to-dubai-and-tokyo/)
+- [Mein Avatar und Ich - SRF DOK (German)](https://www.srf.ch/play/tv/dok/video/mein-avatar-und-ich?urn=urn:srf:video:fe0cbc6c-70b7-4e54-acb5-1fc92097bd5a)
 
 ## Primary Publications
 
