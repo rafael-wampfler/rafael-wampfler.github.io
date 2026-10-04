@@ -22,6 +22,9 @@ main:
   - name: Talks
     url: talks/
     weight: 60
+  - name: Media
+    url: media/
+    weight: 65
   - name: Funding
     url: funding/
     weight: 70
