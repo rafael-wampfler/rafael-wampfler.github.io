@@ -9,13 +9,16 @@ design:
 sections:
   - block: markdown
     content:
-      title: Talks & Workshops
       text: |-
         ## Invited Talks & Keynotes
 
         | Date | Title | Venue |
         |---|---|---|
-        | Jan 2026 | *AI Literacy and the Future of Work* — Panel discussion | World Economic Forum, Davos, Switzerland |
+        | Sep 2026 | *Digital Einstein: Bringing Einstein Back to Life* — Public talk | NZZ Festival Lounge, Zurich Film Festival, Zurich, Switzerland |
+        | Aug 2026 | *Wie KI Einstein zum Leben erweckt* — Short lecture | Scientifica, Zurich, Switzerland |
+        | Jun 2026 | *Generative AI in Action: Meet Digital Einstein* — Keynote | DARIAH-CH event *Generative AI for GLAM Institutions: Opportunity or Risk?*, ETH Library & infoclio.ch (online) |
+        | May 2026 | *The Rise of AI Avatars: Potential for Teaching & Education* — Keynote | EduAI Summit 2026, Switzerland Innovation Park Ost, St. Gallen, Switzerland |
+        | Jan 2026 | *AI Literacy and the Future of Work* — Panel discussion (organised by digitalswitzerland) | World Economic Forum, Davos, Switzerland |
         | Nov 2025 | *Beyond Avatars* — Panel discussion | Berlin Science Week, Berlin, Germany |
         | Oct 2025 | *The Creation of Believable Digital Characters* — Keynote | InVirtuo 4.0 Network Workshop, Bonn, Germany |
         | Oct 2025 | *A Platform for Interactive AI Character Experiences* — Invited talk | GITEX Global, Dubai, UAE |

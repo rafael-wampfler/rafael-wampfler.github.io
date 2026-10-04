@@ -1,5 +1,5 @@
 ---
-title: 'Multimodal Dialog Act Classification for Conversations With Digital Characters'
+title: 'Multimodal Dialog Act Classification for Digital Character Conversations'
 
 authors:
   - P. Witzig
@@ -33,6 +33,10 @@ featured: false
 projects:
   - dialog-act
   - digital-einstein
+
+links:
+  - type: doi
+    url: 'https://doi.org/10.1145/3640794.3665541'
 
 slides: ""
 ---

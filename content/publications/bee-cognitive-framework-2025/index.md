@@ -27,7 +27,7 @@ tags:
   - Value Alignment
   - Belief Management
 
-featured: false
+featured: true
 
 awards:
   - Best Paper Honorable Mention, IVA 2025

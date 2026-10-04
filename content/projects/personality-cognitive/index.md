@@ -72,4 +72,4 @@ C. Yang, M. Gross and **R. Wampfler** (2025). *Steering Narrative Agents through
 
 N. Kovačević, C. Holz, M. Gross and **R. Wampfler** (2024). *The Personality Dimensions GPT-3 Expresses During Human-Chatbot Interactions*. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM, vol. 8, no. 2, 2024, pp. 1–36.
 
-N. Kovačević, T. Boschung, C. Holz, M. Gross and **R. Wampfler** (2024). *Chatbots With Attitude: Enhancing Chatbot Interactions Through Dynamic Personality Infusions*. Proceedings of the 6th International Conference on Conversational User Interfaces (CUI), Luxembourg, July 08–10, 2024, pp. 1–16.
+N. Kovačević, T. Boschung, C. Holz, M. Gross and **R. Wampfler** (2024). *Chatbots With Attitude: Enhancing Chatbot Interactions Through Dynamic Personality Infusion*. Proceedings of the 6th International Conference on Conversational User Interfaces (CUI), Luxembourg, July 08–10, 2024, pp. 1–16.

@@ -36,5 +36,9 @@ featured: true
 projects:
   - digital-einstein
 
+links:
+  - type: doi
+    url: 'https://doi.org/10.1145/3721238.3730762'
+
 slides: ""
 ---

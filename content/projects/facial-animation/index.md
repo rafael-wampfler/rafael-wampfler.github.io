@@ -56,4 +56,4 @@ The resulting animations are both emotionally coherent — the emotion is consis
 
 P. Witzig, B. Solenthaler, M. Gross and **R. Wampfler** (2025). *PhonemeNet: A Transformer Pipeline for Text-Driven Facial Animation*. Proceedings of the 18th ACM SIGGRAPH Conference on Motion, Interaction, and Games (MIG '25), Zurich, Switzerland, December 3–5, 2025, pp. 1–11. **Best Paper Honorable Mention.**
 
-P. Witzig, S. Solenthaler, M. Gross, **R. Wampfler** (2024). *EmoSpaceTime: Decoupling Emotion and Content through Contrastive Learning for Expressive 3D Speech Animation*. In Proceedings of the 17th ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG '24), Arlington, USA, November 21–23, 2024.
+P. Witzig, B. Solenthaler, M. Gross, **R. Wampfler** (2024). *EmoSpaceTime: Decoupling Emotion and Content through Contrastive Learning for Expressive 3D Speech Animation*. In Proceedings of the 17th ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG '24), Arlington, USA, November 21–23, 2024.

@@ -3,7 +3,7 @@ title: 'EmoSpaceTime: Decoupling Emotion and Content through Contrastive Learnin
 
 authors:
   - P. Witzig
-  - S. Solenthaler
+  - B. Solenthaler
   - M. Gross
   - me
 
@@ -28,10 +28,14 @@ tags:
   - Contrastive Learning
   - Generative Models
 
-featured: false
+featured: true
 
 projects:
   - facial-animation
+
+links:
+  - type: doi
+    url: 'https://doi.org/10.1145/3677388.3696336'
 
 slides: ""
 ---

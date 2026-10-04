@@ -33,5 +33,9 @@ featured: false
 projects:
   - affective-computing
 
+links:
+  - type: doi
+    url: 'https://doi.org/10.1145/3678957.3685759'
+
 slides: ""
 ---

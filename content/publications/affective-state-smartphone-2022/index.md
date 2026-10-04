@@ -14,7 +14,7 @@ publishDate: '2022-04-30T00:00:00Z'
 
 publication_types: ['paper-conference']
 
-publication: In *Proceedings of the Conference on Human Factors in Computing Systems (CHI)*, New Orleans, USA
+publication: In *Proceedings of the Conference on Human Factors in Computing Systems (CHI)*, New Orleans, USA, Article 403
 publication_short: In *CHI 2022*
 
 abstract: >
@@ -34,6 +34,10 @@ featured: true
 
 projects:
   - affective-computing
+
+links:
+  - type: doi
+    url: 'https://doi.org/10.1145/3491102.3501835'
 
 slides: ""
 ---

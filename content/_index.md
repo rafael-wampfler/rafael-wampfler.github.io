@@ -77,7 +77,7 @@ sections:
       title: Funding
       text: |-
         <div style="text-align: justify;">
-        My research is supported by competitive grants from national and international funding agencies. Current projects include work on cognitive health monitoring funded by the National Research Foundation Singapore (NRF CREATE – Future Health Technologies 2), animation synthesis funded by an SNF Ambizione grant, and applied digital health projects in collaboration with Swiss universities and hospitals. Past funding includes an ETH Grant and project partnerships with the Hasler Foundation and the University of Basel.
+        My research is supported by competitive grants from national and international funding agencies. Current projects include work on cognitive health monitoring funded by the National Research Foundation Singapore (NRF CREATE – Future Health Technologies 2), animation synthesis funded by an SNF Ambizione grant, and applied digital health projects in collaboration with Swiss universities and hospitals. Past funding includes project partnerships with the Hasler Foundation and the University of Basel.
         </div>
     design:
       columns: '1'
@@ -85,8 +85,11 @@ sections:
     content:
       title: Selected Talks
       text: |-
+        - **Sep 2026** — *Digital Einstein: Bringing Einstein Back to Life*, Public talk, NZZ Festival Lounge, Zurich Film Festival, Zurich
+        - **May 2026** — *The Rise of AI Avatars: Potential for Teaching & Education*, Keynote, EduAI Summit 2026, St. Gallen
         - **Jan 2026** — *AI Literacy and the Future of Work*, Panel discussion, World Economic Forum, Davos
         - **Nov 2025** — *Beyond Avatars*, Panel discussion, Berlin Science Week, Berlin
+        - **Oct 2025** — *The Creation of Believable Digital Characters*, Keynote, InVirtuo 4.0 Network Workshop, Bonn
         - **Oct 2025** — *A Platform for Interactive AI Character Experiences*, Invited talk, GITEX Global, Dubai
         - **Aug 2025** — Digital Einstein at SIGGRAPH, Vancouver
         - **Oct 2024** — *The Creation of Believable Digital Characters*, Keynote, GITEX Global, Dubai
@@ -97,14 +100,28 @@ sections:
       title: People
       text: |-
         <div style="text-align: justify;">
-        I supervise a team of PhD students and research assistants. I currently supervise three PhD students, and have successfully supervised one PhD to completion. Current PhD projects span user interface optimisation, believable narrative agents, and data-driven animation synthesis for conversational characters. I have supervised 35 Bachelor's, 13 Master's, and 7 semester thesis projects, as well as four student research assistants working on the Digital Einstein project.
+        I supervise a team of PhD students and research assistants. I currently supervise two PhD students, with a third starting in November 2026, and have supervised two PhDs to completion (2025 and 2026). PhD projects span user interface optimisation, believable narrative agents, and data-driven animation synthesis for conversational characters. I have supervised 36 Bachelor's theses, 15 Master's theses, and 9 semester projects, as well as four student research assistants working on the Digital Einstein platform.
         </div>
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: Teaching
+      text: |-
+        | Course | Role | Institution | Years |
+        |---|---|---|---|
+        | Artificial Intelligence for Digital Characters | Course creator & lecturer | ETH Zurich | 2024 – present |
+        | Seminar on Digital Humans | Course creator & lecturer | ETH Zurich | 2022 – present |
+        | Visual Computing | Head teaching assistant | ETH Zurich, D-INFK | 2022 – 2024 |
+        | Parallel Programming | Head teaching assistant | ETH Zurich, D-INFK | 2021 – 2023 |
+        | Informatik I | Teaching assistant | ETH Zurich, D-BAUG and D-MAVT | 2017 – 2021 |
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
       title: Featured Publications
+      count: 10
       filters:
         folders:
           - publications
@@ -124,14 +141,4 @@ sections:
     design:
       view: citation
       show_read_time: false
-  - block: markdown
-    content:
-      title: Teaching
-      text: |-
-        | Course | Role | Institution | Years |
-        |---|---|---|---|
-        | Artificial Intelligence for Digital Characters | Course creator & lecturer | ETH Zurich | 2024 – present |
-        | Seminar on Digital Humans | Course creator & lecturer | ETH Zurich | 2022 – present |
-    design:
-      columns: '1'
 ---

@@ -57,6 +57,11 @@ Digital Einstein has been demonstrated at over 20 major events worldwide, includ
 - **Swiss Re Resilience Summit 2024** (Rüschlikon, Switzerland)
 - **Microsoft Initiative to Advance AI Diffusion in Switzerland 2025** (Berne)
 - **After the Algorithm Festival 2026** (Zurich, Switzerland)
+- **Zurich Film Festival 2026** (Zurich, Switzerland) — with a public talk at the NZZ Festival Lounge
+- **Scientifica 2026** (Zurich, Switzerland)
+- **Inauguration of ETH Zurich Campus Heilbronn 2026** (Heilbronn, Germany)
+- **StageOne (TEDx) 2023** (Zurich, Switzerland)
+- **SRF DOK documentary *Mein Avatar und Ich* (2026)** — Digital Einstein featured on Swiss national television
 
 The project has generated sustained international media coverage and public interest, positioning ETH Zurich as a world leader in embodied conversational AI.
 

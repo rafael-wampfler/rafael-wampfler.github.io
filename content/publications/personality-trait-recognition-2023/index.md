@@ -13,7 +13,7 @@ publishDate: '2023-01-01T00:00:00Z'
 
 publication_types: ['article-journal']
 
-publication: '*IEEE Transactions on Affective Computing*'
+publication: '*IEEE Transactions on Affective Computing*, vol. 14, no. 4'
 publication_short: In *IEEE TAC 2023*
 
 abstract: >
@@ -33,6 +33,10 @@ featured: false
 
 projects:
   - affective-computing
+
+links:
+  - type: doi
+    url: 'https://doi.org/10.1109/TAFFC.2023.3253202'
 
 slides: ""
 ---

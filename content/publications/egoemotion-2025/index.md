@@ -35,5 +35,9 @@ featured: true
 projects:
   - affective-computing
 
+links:
+  - type: doi
+    url: 'https://doi.org/10.48550/arXiv.2510.22129'
+
 slides: ""
 ---

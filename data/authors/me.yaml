@@ -16,7 +16,7 @@ postnominals:
 role: Senior Researcher & Lecturer
 
 bio: |
-  I am a Senior Researcher & Lecturer at the Computer Graphics Laboratory of ETH Zurich, and a Research Consultant at Disney Research. I am leading the Digital Character AI projects at CGL. My research interests include conversational digital characters, affective computing, human-computer interaction, and applied machine learning.
+  I am a Senior Researcher & Lecturer at the Computer Graphics Laboratory of ETH Zurich, and a Research Consultant at Disney Research. I lead the Digital Character AI team at CGL and, as PI of an SNF Ambizione grant, a line of generative models that produce expressive 3D facial animation from speech and text under explicit control of emotion and expression. My research interests include conversational digital characters, generative animation, affective computing, human-computer interaction, and applied machine learning.
 
   My vision is to create intelligent digital humans that can naturally communicate, understand, and support people across domains such as education and mental health. My research focuses on multimodal artificial intelligence for interactive digital humans, developing models that combine large language models, affective computing, and data-driven animation to create embodied conversational agents endowed with autonomous agency, consistent values, and beliefs.
 
@@ -38,12 +38,12 @@ links:
     url: https://orcid.org/0000-0003-0158-1305
 
 interests:
+  - Generative Animation Synthesis
   - Embodied Conversational Agents
-  - Multimodal AI and Affective Computing
-  - Human–AI Interaction
-  - Data-Driven Animation Synthesis
-  - LLMs & Generative AI for Dialogue
-  - AI for Mental Health
+  - Cognitive & Narrative Character Models
+  - Multimodal Perception & Affective Computing
+  - LLM-Driven Dialogue & Storytelling
+  - AI for Digital Health
 
 education:
   - degree: Dr. sc. (PhD) in Computer Science
@@ -55,17 +55,17 @@ education:
     institution: ETH Zurich
     summary: |
       Thesis: Engagement Detector: Modelling Engagement Dynamics in Virtual Environments.
-      Supervisors: Severin Klingler, Dr. Tanja Käser, Dr. Barbara Solenthaler, Prof. Dr. Markus Gross.
   - degree: Bachelor's Degree in Computer Science
     institution: ETH Zurich
     summary: |
       Thesis: Diff library in Eiffel (Diffeif).
-      Supervisors: Yu Pei, Prof. Dr. Bertrand Meyer.
 
 experience:
   - role: Research Consultant
     org: Disney Research, The Walt Disney Company
     start: 2026-02-01
+    summary: |
+      Research consulting on interactive AI characters, multimodal learning, and data-driven character animation.
   - role: Lecturer
     org: ETH Zurich
     start: 2023-10-01
@@ -77,7 +77,7 @@ experience:
     org: Computer Graphics Laboratory, ETH Zurich
     start: 2023-10-01
     summary: |
-      Leading the Digital Character AI research team. Developing models that combine large language models, affective computing, and data-driven animation to create embodied conversational agents with autonomous agency, consistent values, and beliefs.
+      Lead of the Digital Character AI team. PI of the SNF Ambizione grant *Data-Driven Animation Synthesis for Stylized Characters* and Co-PI in the NRF Singapore CREATE programme Future Health Technologies 2. Developing models that combine large language models, affective computing, and data-driven animation to create embodied conversational agents with autonomous agency, consistent values, and beliefs.
   - role: Postdoctoral Researcher
     org: Computer Graphics Laboratory, ETH Zurich
     start: 2021-09-01
@@ -117,6 +117,12 @@ languages:
     label: Intermediate
 
 awards:
+  - title: Honorable Mention Paper Award
+    awarder: IEEE International Conference on Healthcare Informatics (ICHI), Minneapolis
+    date: "2026"
+    summary: |
+      For the paper *Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars*.
+    icon: hero/trophy
   - title: Best Paper Honorable Mention
     awarder: 18th ACM SIGGRAPH Conference on Motion, Interaction, and Games (MIG), Zurich
     date: "2025-12-05"

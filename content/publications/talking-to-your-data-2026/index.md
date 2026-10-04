@@ -2,7 +2,7 @@
 title: 'Talking to Your Data: Exploring Embodied Conversation as an Interface for Personal Health Reflection'
 
 authors:
-  - N. Kovacevic
+  - N. Kovačević
   - B. Husler
   - D. Zhuang
   - me
@@ -13,7 +13,7 @@ publishDate: '2026-03-23T00:00:00Z'
 
 publication_types: ['paper-conference']
 
-publication: In *Joint Proceedings of the ACM Intelligent User Interfaces (IUI) Workshops 2026*, Paphos, Cyprus
+publication: In *Joint Proceedings of the ACM IUI Workshops 2026, Workshop on Intelligent and Interactive Health User Interfaces (HealthIUI)*, CEUR Workshop Proceedings, vol. 4266, Paphos, Cyprus
 publication_short: In *IUI Workshops 2026*
 
 abstract: >
@@ -36,7 +36,7 @@ projects:
 
 links:
   - type: doi
-    url: 'https://doi.org/10.1145/3708557.3708907'
+    url: 'https://doi.org/10.48550/arXiv.2606.17767'
 
 slides: ""
 ---

@@ -33,5 +33,9 @@ featured: true
 projects:
   - personality-cognitive
 
+links:
+  - type: doi
+    url: 'https://doi.org/10.1145/3659626'
+
 slides: ""
 ---

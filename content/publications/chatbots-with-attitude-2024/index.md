@@ -1,5 +1,5 @@
 ---
-title: 'Chatbots With Attitude: Enhancing Chatbot Interactions Through Dynamic Personality Infusions'
+title: 'Chatbots With Attitude: Enhancing Chatbot Interactions Through Dynamic Personality Infusion'
 
 authors:
   - N. Kovačević
@@ -33,6 +33,10 @@ featured: false
 
 projects:
   - personality-cognitive
+
+links:
+  - type: doi
+    url: 'https://doi.org/10.1145/3640794.3665543'
 
 slides: ""
 ---

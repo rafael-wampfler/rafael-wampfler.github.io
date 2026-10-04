@@ -39,4 +39,4 @@ The system is evaluated on naturalistic conversations with digital characters �
 
 ## Publication
 
-P. Witzig, R. Constantin, N. Kovačević and **R. Wampfler** (2024). *Multimodal Dialog Act Classification for Conversations With Digital Characters*. Proceedings of the 6th International Conference on Conversational User Interfaces (CUI), Luxembourg, Luxembourg, July 08–10, 2024, pp. 1–14.
+P. Witzig, R. Constantin, N. Kovačević and **R. Wampfler** (2024). *Multimodal Dialog Act Classification for Digital Character Conversations*. Proceedings of the 6th International Conference on Conversational User Interfaces (CUI), Luxembourg, Luxembourg, July 08–10, 2024, pp. 1–14.
