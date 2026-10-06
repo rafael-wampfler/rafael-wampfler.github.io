@@ -47,21 +47,41 @@ The SIGGRAPH Asia 2024 demonstration paper *"Immersive Conversations with Digita
 
 ## Key Results
 
-Digital Einstein has been demonstrated at over 20 major events worldwide, including:
+Digital Einstein was demonstrated at 24 events (2023–2026):
 
-- **SIGGRAPH Asia 2024** (Tokyo, Japan) — Emerging Technologies
-- **SIGGRAPH 2025** (Vancouver, Canada)
-- **GITEX Global 2024 & 2025** (Dubai, UAE) — Swiss Pavilion
-- **World Economic Forum 2024 & 2026** (Davos, Switzerland)
-- **Berlin Science Week 2025** (Berlin, Germany)
-- **Swiss Re Resilience Summit 2024** (Rüschlikon, Switzerland)
-- **Microsoft Initiative to Advance AI Diffusion in Switzerland 2025** (Berne)
-- **After the Algorithm Festival 2026** (Zurich, Switzerland)
-- **Zurich Film Festival 2026** (Zurich, Switzerland) — with a public talk at the NZZ Festival Lounge
-- **Scientifica 2026** (Zurich, Switzerland)
-- **Inauguration of ETH Zurich Campus Heilbronn 2026** (Heilbronn, Germany)
-- **StageOne (TEDx) 2023** (Zurich, Switzerland)
-- **SRF DOK documentary *Mein Avatar und Ich* (2026)** — Digital Einstein featured on Swiss national television
+**2026**
+- **Zurich Film Festival** (Zurich, Switzerland)
+- **Zug Innovation Day** (Zug, Switzerland)
+- **ETH Study Information Days** (Zurich, Switzerland)
+- **Scientifica** (Zurich, Switzerland)
+- **Inauguration of ETH Zurich Campus Heilbronn** (Heilbronn, Germany) — ribbon-cutting
+- **wow² – meet ETH** (Zurich, Switzerland)
+- **After the Algorithm Festival** (Zurich, Switzerland)
+- **World Economic Forum**, ETH Domain event (Davos, Switzerland)
+
+**2025**
+- **Berlin Science Week** (Berlin, Germany) — with panel
+- **GITEX Global** (Dubai, UAE)
+- **Zunftbott** (ETH Zurich, Switzerland)
+- **SIGGRAPH** (Vancouver, Canada)
+- **Microsoft Initiative to Advance AI Diffusion in Switzerland** (Bern, Switzerland)
+- **TECH Conference** (Heilbronn, Germany)
+- **Polymesse** (ETH Zurich, Switzerland)
+
+**2024**
+- **SIGGRAPH Asia** (Tokyo, Japan) — Emerging Technologies
+- **GITEX Global** (Dubai, UAE)
+- **Digitaltag** (Vaduz, Liechtenstein)
+- **Swiss Re Resilience Summit** (Rüschlikon, Switzerland)
+- **Night of the Wissensstadt** (Heilbronn, Germany)
+- **OpenForum at the World Economic Forum Annual Meeting** (Davos, Switzerland)
+
+**2023**
+- **Roche Digital Tag** (Rotkreuz, Switzerland)
+- **StageOne (TEDx)** (Zurich, Switzerland)
+- **Swisscom Business Day** (Lucerne, Switzerland)
+
+**Media:** Digital Einstein was featured in the SRF DOK documentary *Mein Avatar und Ich* (2026) on Swiss national television, with Rafael Wampfler as a featured researcher.
 
 The project has generated sustained international media coverage and public interest, positioning ETH Zurich as a world leader in embodied conversational AI.
 
