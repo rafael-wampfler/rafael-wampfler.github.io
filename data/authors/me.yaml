@@ -113,8 +113,8 @@ languages:
     level: 5
     label: Fluent
   - name: French
-    level: 3
-    label: Intermediate
+    level: 2
+    label: Elementary
 
 awards:
   - title: Honorable Mention Paper Award
