@@ -35,6 +35,8 @@ Prior approaches either sacrifice expressiveness for speed, or require enormous 
 
 PhonemeNet takes text input, extracts phoneme sequences, and generates corresponding 3D facial blendshape sequences that are synchronized with speech audio. The pipeline achieves real-time performance on standard hardware, making it suitable for deployment in interactive embodied agents.
 
+In a perceptual study with 26 participants, PhonemeNet's lip synchronisation was preferred over two audio-driven baselines in 86% and 92% of comparisons, respectively.
+
 PhonemeNet received the **Best Paper Honorable Mention** at the 18th ACM SIGGRAPH Conference on Motion, Interaction, and Games (MIG 2025).
 
 ### EmoSpaceTime (MIG 2024)
@@ -47,10 +49,22 @@ PhonemeNet received the **Best Paper Honorable Mention** at the 18th ACM SIGGRAP
 
 The resulting animations are both emotionally coherent — the emotion is consistent throughout an utterance — and semantically coherent — lip synchronization is accurate regardless of the emotional style applied.
 
+### COMOCAP Dataset (CUI 2024)
+
+EmoSpaceTime and PhonemeNet are trained on **COMOCAP**, our dataset of 32 hours of multimodal recordings from 60 participants, introduced with our work on multimodal dialog act classification (CUI 2024).
+
+### FLEX (under review)
+
+**FLEX** adds free-form text control of expressions to audio-driven facial animation, preserving lip synchronisation through a phonetic gate. The work is currently under review at IEEE FG 2027.
+
 ## Key Results
 
-- PhonemeNet achieves real-time text-driven facial animation with best-in-class lip synchronization accuracy — Best Paper Honorable Mention at MIG 2025
+- PhonemeNet's lip synchronisation was preferred over two audio-driven baselines in 86% and 92% of comparisons in a 26-participant study — Best Paper Honorable Mention at MIG 2025
 - EmoSpaceTime demonstrates that contrastive decoupling of emotion and content significantly improves expressive quality while maintaining temporal coherence
+
+## Funding
+
+This work is funded by the SNSF Ambizione grant *Data-Driven Animation Synthesis for Stylized Characters* (2023–2027), for which Rafael Wampfler is Principal Investigator.
 
 ## Publications
 

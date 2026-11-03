@@ -34,7 +34,7 @@ tags:
 featured: false
 
 projects:
-  - virtual-psychotherapist
+  - ai-supported-psychotherapy
 
 links:
   - type: doi

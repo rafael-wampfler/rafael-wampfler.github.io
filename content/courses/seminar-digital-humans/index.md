@@ -27,6 +27,7 @@ This seminar covers advanced topics in digital humans including both seminal res
 |---|---|
 | **Level** | Graduate (MSc / PhD) |
 | **Semester** | Fall |
+| **Credits** | 2 ECTS |
 | **Institution** | ETH Zurich, D-INFK |
 | **Role** | Course creator & lecturer |
 | **Years** | 2022 – present |

@@ -48,15 +48,16 @@ The SIGGRAPH Asia 2024 demonstration paper *"Immersive Conversations with Digita
 
 ## Key Results
 
-Digital Einstein was demonstrated at 24 events (2023–2026):
+Digital Einstein was demonstrated at 25 events (2023–2026):
 
 **2026**
+- **wow² Space – meet ETH** (ETH Zurich, Switzerland) — second edition *Humans and Space*, 31 October – 1 November 2026
 - **Zurich Film Festival** (Zurich, Switzerland)
 - **Zug Innovation Day** (Zug, Switzerland)
 - **ETH Study Information Days** (Zurich, Switzerland)
 - **Scientifica** (Zurich, Switzerland)
 - **Inauguration of ETH Zurich Campus Heilbronn** (Heilbronn, Germany) — ribbon-cutting
-- **wow² – meet ETH** (Zurich, Switzerland)
+- **wow² Space – meet ETH** (ETH Zurich Main Building, Switzerland) — interactive exhibit *Ask Albert Einstein!* at ETH Zurich's public space-themed event, first edition, 30 May 2026
 - **After the Algorithm Festival** (Zurich, Switzerland)
 - **World Economic Forum**, ETH Domain event (Davos, Switzerland)
 
@@ -82,7 +83,14 @@ Digital Einstein was demonstrated at 24 events (2023–2026):
 - **StageOne (TEDx)** (Zurich, Switzerland)
 - **Swisscom Business Day** (Lucerne, Switzerland)
 
-**Media:** Digital Einstein was featured in the SRF DOK documentary *Mein Avatar und Ich* (2026) on Swiss national television, with Rafael Wampfler as a featured researcher.
+**Talks (2026):**
+- **Oct 2026** — *Digital Einstein: Wie KI historische Persönlichkeiten zum Leben erweckt*, Gymnasium Neufeld, Bern (ETH unterwegs)
+- **Oct 2026** — *Digital Einstein: Wie KI historische Persönlichkeiten zum Leben erweckt*, Engelberger Dialoge, Academia Engelberg, Engelberg
+- **Sep 2026** — *Digital Einstein: Bringing Einstein Back to Life*, NZZ Festival Lounge, Zurich Film Festival, Zurich
+- **Aug 2026** — *Wie KI Einstein zum Leben erweckt*, short lecture, Scientifica, Zurich
+- **Jun 2026** — *Generative AI in Action: Meet Digital Einstein*, keynote, DARIAH-CH event, ETH Library & infoclio.ch (online)
+
+**Media:** Digital Einstein was featured in the SRF DOK documentary *Mein Avatar und Ich* (2026) on Swiss national television, with Rafael Wampfler as a featured researcher. It also appears, together with the AI-Supported Psychotherapy project, in an SRF Impact documentary to be broadcast on 11 November 2026.
 
 The project has generated sustained international media coverage and public interest, positioning ETH Zurich as a world leader in embodied conversational AI.
 

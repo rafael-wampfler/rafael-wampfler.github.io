@@ -1,5 +1,7 @@
 ---
-title: Virtual Psychotherapist
+title: AI-Supported Psychotherapy
+aliases:
+  - /projects/virtual-psychotherapist/
 date: 2023-01-01
 weight: 60
 tags:
@@ -14,7 +16,7 @@ summary: >
 
 ## Overview
 
-Access to evidence-based psychotherapy remains severely limited worldwide — constrained by long waitlists, resource scarcity, and geographic disparities. The Virtual Psychotherapist project develops embodied conversational AI agents that complement clinical care by extending access, supporting therapeutic practice, and enabling scalable training.
+Access to evidence-based psychotherapy remains severely limited worldwide — constrained by long waitlists, resource scarcity, and geographic disparities. The AI-Supported Psychotherapy project develops embodied conversational AI agents that complement clinical care by extending access, supporting therapeutic practice, and enabling scalable training.
 
 This initiative is conducted in close collaboration with the **University of Lucerne**, providing clinical expertise and direct access to real therapy data.
 
@@ -42,7 +44,7 @@ The patient-facing component enables individuals to conduct therapeutic conversa
 
 Critically, the system is designed for clinical supervision, not autonomous intervention. All session data is structured and accessible to the supervising therapist, who can monitor progress and intervene as needed.
 
-An evaluation against responses from professional psychotherapists demonstrated that the system's responses were rated significantly higher on understanding, interpersonal effectiveness, collaboration, and ACT alignment — while emphasizing that clinical judgment and the therapeutic relationship remain irreplaceable.
+The system, *Mind Companion*, was evaluated with 11 therapists (IEEE ICHI 2026). An evaluation against responses from professional psychotherapists demonstrated that the system's responses were rated significantly higher on understanding, interpersonal effectiveness, collaboration, and ACT alignment — while emphasizing that clinical judgment and the therapeutic relationship remain irreplaceable.
 
 ### Therapist Training Application
 
@@ -67,7 +69,14 @@ Safety is a primary design constraint. The system includes:
 - Patient-facing system responses rated significantly higher than human therapist responses by automated evaluation and expert psychotherapists across understanding, collaboration, and ACT alignment
 - Therapist training simulation rated as realistic by practicing psychologists; turn-by-turn feedback shown to increase therapist awareness of intervention choices
 - Automated ACT fidelity assessment achieves strong agreement with human expert ratings across 49 therapy transcripts
+- The therapist training paper received the **Honorable Mention Paper Award** at IEEE ICHI 2026
+
+## Publications
+
+S. Kamber, L. Diebold, P. Riachi, S. Brogna, A. Gloster and **R. Wampfler** (2026). *Mind Companion: An Embodied Conversational Agent for Process-Based Psychotherapy*. Proceedings of the IEEE International Conference on Healthcare Informatics (ICHI 2026), Minneapolis, USA, pp. 984–993.
+
+P. Riachi, S. Kamber, S. Brogna, A. Gloster and **R. Wampfler** (2026). *Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars*. Proceedings of the IEEE International Conference on Healthcare Informatics (ICHI 2026), Minneapolis, USA, pp. 994–999. **Honorable Mention Paper Award.**
 
 ## Research Partners
 
-- **University of Lucerne**
+- **Prof. Andrew Gloster**, University of Lucerne

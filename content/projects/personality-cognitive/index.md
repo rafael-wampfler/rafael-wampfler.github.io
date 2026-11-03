@@ -64,7 +64,7 @@ In the domain of interactive narrative, we developed a **Dynamic Cognitive Frame
 
 ## Publications
 
-N. Kovačević, C. Holz, M. Gross and **R. Wampfler** (2025). *A Joint Personality-Emotion Framework for Personality-Consistent Conversational Agents*. In Proceedings of the 25th International Conference on Intelligent Virtual Agents (IVA '25), Berlin, Germany, September 16–19, 2025, pp. 1–9. **Best Paper Honorable Mention.**
+N. Kovačević, C. Holz, M. Gross and **R. Wampfler** (2025). *A Joint Personality-Emotion Framework for Personality-Consistent Conversational Agents*. In Proceedings of the 25th International Conference on Intelligent Virtual Agents (IVA '25), Berlin, Germany, September 16–19, 2025, pp. 1–9.
 
 C. Yang, M. Gross and **R. Wampfler** (2025). *BEE: Belief-Value-Aligned, Explainable, and Extensible Cognitive Framework for Conversational Agents*. In Proceedings of the 25th International Conference on Intelligent Virtual Agents (IVA '25), Berlin, Germany, September 16–19, 2025, pp. 1–9. **Best Paper Honorable Mention.**
 

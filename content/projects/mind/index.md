@@ -70,5 +70,6 @@ MIND represents a convergence of several research threads — geospatial AI, con
 ## Research Partners and Funding
 
 - **National Research Foundation Singapore (NRF) CREATE** — Future Health Technologies 2 (FHT2)
-- **Bond University (Australia)**
+- **ETH Zurich**, **National Healthcare Group (NHG)** and **Nanyang Technological University (NTU)** — FHT2 partners
+- **Bond University (Australia)** — Prof. Victor Schinazi
 - Collaboration with life sciences and medicine partners in Singapore

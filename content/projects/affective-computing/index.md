@@ -60,9 +60,9 @@ M. Jammot, B. Braun, P. Streli, **R. Wampfler** and C. Holz (2025). *egoEMOTION:
 
 N. Kovačević, C. Holz, M. Gross and **R. Wampfler** (2024). *On Multimodal Emotion Recognition for Human-Chatbot Interaction in the Wild*. In Proceedings of the 26th International Conference on Multimodal Interaction (ICMI '24), San Jose, Costa Rica, November 4–8, 2024.
 
-N. Kovačević, C. Holz, T. Günther, M. Gross and **R. Wampfler** (2023). *Personality Trait Recognition Based on Smartphone Typing Characteristics in the Wild*. IEEE Transactions on Affective Computing, pp. 1–11, 2023.
+N. Kovačević, C. Holz, T. Günther, M. Gross and **R. Wampfler** (2023). *Personality Trait Recognition Based on Smartphone Typing Characteristics in the Wild*. IEEE Transactions on Affective Computing, vol. 14, no. 4, 2023.
 
-**R. Wampfler**, S. Klingler, B. Solenthaler, V. R. Schinazi, M. Gross and C. Holz (2022). *Affective State Prediction from Smartphone Touch and Sensor Data in the Wild*. Proceedings of the Conference on Human Factors in Computing Systems (CHI), New Orleans, USA, April 30–May 5, 2022, pp. 1–14.
+**R. Wampfler**, S. Klingler, B. Solenthaler, V. R. Schinazi, M. Gross and C. Holz (2022). *Affective State Prediction from Smartphone Touch and Sensor Data in the Wild*. Proceedings of the Conference on Human Factors in Computing Systems (CHI), New Orleans, USA, April 30–May 5, 2022, Article 403, pp. 1–14.
 
 **R. Wampfler**, S. Klingler, B. Solenthaler, V. R. Schinazi and M. Gross (2020). *Affective State Prediction Based on Semi-Supervised Learning from Smartphone Touch Data*. Proceedings of the Conference on Human Factors in Computing Systems (CHI), Virtual, April 25–30, 2020, pp. 1–13.
 

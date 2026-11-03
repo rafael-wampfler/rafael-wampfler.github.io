@@ -36,7 +36,7 @@ awards:
   - Honorable Mention Paper Award, ICHI 2026
 
 projects:
-  - virtual-psychotherapist
+  - ai-supported-psychotherapy
 
 links:
   - type: doi

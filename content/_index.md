@@ -50,7 +50,7 @@ sections:
 
         I work across three interconnected areas: **multimodal deep learning for affective and behavioral understanding**, leveraging smartphone sensors, egocentric vision, and physiological signals; **agentic AI and cognitive architectures for conversational agents**, enabling consistent personality, beliefs, and emotional states; and **scalable generative models for embodied expression**, developing efficient transformer pipelines for text-driven and speech-driven facial animation.
 
-        A flagship application is [Digital Einstein](https://ethz.ch/en/the-eth-zurich/global/digital-einstein.html), an embodied conversational agent that has reached thousands of visitors globally at events including SIGGRAPH, GITEX Global, and the World Economic Forum. My system also powers collaborative applied research in digital health — including a Virtual Psychotherapist for mental health support and RehaBot for patient health education.
+        A flagship application is [Digital Einstein](https://ethz.ch/en/the-eth-zurich/global/digital-einstein.html), an embodied conversational agent that has reached thousands of visitors globally at events including SIGGRAPH, GITEX Global, and the World Economic Forum. My system also powers collaborative applied research in digital health — including AI-Supported Psychotherapy for mental health support and RehaBot for patient health education.
 
         Please reach out to collaborate.
 
@@ -77,7 +77,7 @@ sections:
       title: Funding
       text: |-
         <div style="text-align: justify;">
-        My research is supported by competitive grants from national and international funding agencies. Current projects include work on cognitive health monitoring funded by the National Research Foundation Singapore (NRF CREATE – Future Health Technologies 2), animation synthesis funded by an SNF Ambizione grant, and applied digital health projects in collaboration with Swiss universities and hospitals. Past funding includes project partnerships with the Hasler Foundation and the University of Basel.
+        My research is supported by competitive grants from national and international funding agencies. Current projects include work on cognitive health monitoring funded by the National Research Foundation Singapore (NRF CREATE – Future Health Technologies 2) and animation synthesis funded by an SNSF Ambizione grant. Past funding includes project partnerships with the Hasler Foundation, Bern University of Applied Sciences and the University of Basel.
         </div>
     design:
       columns: '1'
@@ -85,6 +85,8 @@ sections:
     content:
       title: Selected Talks
       text: |-
+        - **Oct 2026** — *Digital Einstein: Wie KI historische Persönlichkeiten zum Leben erweckt*, Talk, Gymnasium Neufeld, Bern (ETH unterwegs)
+        - **Oct 2026** — *Digital Einstein: Wie KI historische Persönlichkeiten zum Leben erweckt*, Talk, Engelberger Dialoge, Academia Engelberg, Engelberg
         - **Sep 2026** — *Digital Einstein: Bringing Einstein Back to Life*, Public talk, NZZ Festival Lounge, Zurich Film Festival, Zurich
         - **May 2026** — *The Rise of AI Avatars: Potential for Teaching & Education*, Keynote, EduAI Summit 2026, St. Gallen
         - **Jan 2026** — *AI Literacy and the Future of Work*, Panel discussion, World Economic Forum, Davos
@@ -100,7 +102,7 @@ sections:
       title: People
       text: |-
         <div style="text-align: justify;">
-        I supervise a team of PhD students and research assistants. I currently supervise two PhD students, with a third starting in November 2026, and have supervised two PhDs to completion (2025 and 2026). PhD projects span user interface optimisation, believable narrative agents, and data-driven animation synthesis for conversational characters. I have supervised 36 Bachelor's theses, 15 Master's theses, and 9 semester projects, as well as four student research assistants working on the Digital Einstein platform.
+        I supervise a team of PhD students and research assistants. I currently supervise three PhD students and have supervised two PhDs to completion (2025 and 2026). PhD projects span user interface optimisation, believable narrative agents, and data-driven animation synthesis for conversational characters. I have supervised one research engineer, with a second starting on 1 December 2026. I have supervised 36 Bachelor's theses, 16 Master's theses, and 9 semester projects, as well as four student research assistants working on the Digital Einstein platform.
         </div>
     design:
       columns: '1'

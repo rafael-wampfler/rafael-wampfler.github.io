@@ -61,9 +61,10 @@ photo_groups:
     date: August 2026
     caption: Digital Einstein and the short lecture *Wie KI Einstein zum Leben erweckt*
     photos: [scientifica-zurich-2026-1, scientifica-zurich-2026-2, scientifica-zurich-2026-3, scientifica-short-lecture-zurich-2026]
-  - title: wow² – meet ETH
-    location: ETH Zurich
-    date: '2026'
+  - title: wow² Space – meet ETH
+    location: ETH Zurich Main Building
+    date: May 2026
+    caption: Interactive exhibit *Ask Albert Einstein!*
     photos: [wow2-meet-eth-2026-1, wow2-meet-eth-2026-2, wow2-meet-eth-2026-3]
   - title: After the Algorithm Festival
     location: Zurich

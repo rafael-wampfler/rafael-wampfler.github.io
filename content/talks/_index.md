@@ -14,6 +14,8 @@ sections:
 
         | Date | Title | Venue |
         |---|---|---|
+        | Oct 2026 | *Digital Einstein: Wie KI historische Persönlichkeiten zum Leben erweckt* — Talk | Gymnasium Neufeld, Bern, Switzerland (ETH unterwegs) |
+        | Oct 2026 | *Digital Einstein: Wie KI historische Persönlichkeiten zum Leben erweckt* — Talk | Engelberger Dialoge, Academia Engelberg, Engelberg, Switzerland |
         | Sep 2026 | *Digital Einstein: Bringing Einstein Back to Life* — Public talk | NZZ Festival Lounge, Zurich Film Festival, Zurich, Switzerland |
         | Aug 2026 | *Wie KI Einstein zum Leben erweckt* — Short lecture | Scientifica, Zurich, Switzerland |
         | Jun 2026 | *Generative AI in Action: Meet Digital Einstein* — Keynote | DARIAH-CH event *Generative AI for GLAM Institutions: Opportunity or Risk?*, ETH Library & infoclio.ch (online) |

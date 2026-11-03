@@ -17,12 +17,18 @@ This lecture provides an overview of techniques to build conversational digital 
 
 The lecture opens with basics on digital characters. Afterwards, the main components to build a conversational digital character are introduced. This includes the basics of natural language processing used to build a chatbot, speech recognition, speech synthesis, and animating a digital character based on motion capturing and deep learning. Further, autonomous agents based on knowledge graphs are covered. The lecture ends with real-life applications of digital characters.
 
+## Format
+
+Lectures combine theoretical foundations with live demonstrations of current applications. In ungraded exercises and a hands-on project, students progressively build their own interactive avatar. Short quizzes encourage continuous engagement, and a written examination assesses the course learning objectives.
+
 ## Details
 
 | | |
 |---|---|
 | **Level** | Graduate (MSc / PhD) |
 | **Semester** | Spring |
+| **Credits** | 4 ECTS |
+| **Students** | Over 100 |
 | **Institution** | ETH Zurich, D-INFK |
 | **Role** | Course creator & lecturer |
 | **Years** | 2024 – present |
