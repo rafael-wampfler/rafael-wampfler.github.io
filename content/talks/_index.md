@@ -35,6 +35,7 @@ sections:
 
         | Date | Title | Venue |
         |---|---|---|
+        | Oct 2026 | *Kluge Integration von KI in die Bildung – Chancen von KI-Avataren* — Co-Organizer (with SBW Haus des Lernens AG) | ETH Zurich, Zurich, Switzerland |
         | Oct 2025 | *Interactive Human-centric Foundation Models* — Co-Organizer | International Conference on Computer Vision (ICCV), Honolulu, USA |
         | Oct 2024 | *Artificial Intelligence for Digital Characters* — Organizer | GITEX Global, Dubai, UAE |
         | Sep 2024 | *Foundation Models for 3D Humans* — Co-Organizer | European Conference on Computer Vision (ECCV) Workshop, Milano, Italy |

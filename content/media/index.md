@@ -9,6 +9,11 @@ videos:
   - file: digital-einstein-teaser
     title: Digital Einstein
     caption: Project teaser
+  - file: sbw-eth-ai-avatars-workshop-zurich-2026
+    title: Kluge Integration von KI in die Bildung – Chancen von KI-Avataren
+    caption: Workshop with SBW Haus des Lernens AG
+    location: ETH Zurich
+    date: October 2026
   - file: eth-campus-heilbronn-inauguration-2026
     title: Inauguration of ETH Zurich Campus Heilbronn
     caption: Ribbon-cutting with Digital Einstein
@@ -44,6 +49,11 @@ photo_groups:
   - title: Digital Einstein
     caption: The installation, the team, and ETH President Joël Mesot in conversation with Digital Einstein
     photos: [digital-einstein-installation-1, digital-einstein-installation-2, digital-einstein-team, joel-mesot-digital-einstein]
+  - title: Kluge Integration von KI in die Bildung – Chancen von KI-Avataren
+    location: ETH Zurich
+    date: October 2026
+    caption: Workshop with SBW Haus des Lernens AG, with a talk, Digital Einstein demonstrations and a lab tour
+    photos: [sbw-eth-ai-avatars-workshop-talk-zurich-2026-1, sbw-eth-ai-avatars-workshop-talk-zurich-2026-2, sbw-eth-ai-avatars-workshop-zurich-2026-1, sbw-eth-ai-avatars-workshop-zurich-2026-2, sbw-eth-ai-avatars-workshop-zurich-2026-3, sbw-eth-ai-avatars-workshop-zurich-2026-4, sbw-eth-ai-avatars-workshop-lab-tour-zurich-2026]
   - title: Zurich Film Festival
     location: Zurich
     date: September 2026
